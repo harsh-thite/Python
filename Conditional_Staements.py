@@ -28,7 +28,7 @@ else:
     print("Colour not related to traffic lights")
 
 
-# Practice 1:
+# Practice Ques 1:
 marks = int(input("Enter your marks:"))
 
 if(marks >= 90):
@@ -41,5 +41,5 @@ elif(marks >=60 and marks < 70):
     grade = "D"
 else:
     grade = "F"
-    
+
 print("grade of the student: ", grade)
