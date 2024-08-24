@@ -8,7 +8,7 @@ print(car1.color)
 print(car1.brand)
 
 
-#Practice
+#Example
 class Car:
     brand_name = "BMW"
     
